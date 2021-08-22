@@ -1,7 +1,10 @@
 .idea
 .ipynb_checkpoints
+*.csv
+*.ipynb
+*.txt
 *.zip
+data/*.pickle
+data/*.json
 __init__.py
 __pycache__
-data/*
-notebooks/*

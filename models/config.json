@@ -1,0 +1,8 @@
+{
+  "dim": 256,
+  "max_len": 64,
+  "vocab_size": 5000,
+  "num_epochs": 24,
+  "train_batch_size": 256,
+  "test_batch_size": 512
+}

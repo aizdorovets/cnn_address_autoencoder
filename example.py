@@ -13,7 +13,7 @@ from utils.utils import get_device, infer
 
 
 # Config and device
-config_path = 'data/config.json'
+config_path = 'models/config.json'
 with open(config_path, 'r') as f:
     config = json.load(f)
 device = get_device()
